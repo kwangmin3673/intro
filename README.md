@@ -3,6 +3,7 @@
 저의 이름은 김광민 이라고 합니다.
 # Fate Grand Order
 * 개요
+
 http://cdn.img-conv.gamerch.com/img.gamerch.com/fate-grandorder/1435541194001.jpg?width=100%||
 [[Fate 시리즈|Fate/프랜차이즈]]로 개발된 [[일본]]의 [[스마트폰]]용 [[모바일 게임]]. [[2014년]] [[7월 27일]]에 [[텔레비전]] [[애니메이션]] 《[[Fate/stay night Unlimited Blade Works|Fate/stay night ［Unlimited Blade Works］]]》, [[헤븐즈 필]] 루트 극장판과 함께 공개된 작품들 중 하나로, 애니메이션 방영 타이밍에 맞춰 스마트폰 게임도 내보자는 [[애니플렉스]]측의 제안에 따라 《[[Fate/Apocrypha]]》에서 엎어진 Fate 온라인 게임화 설정을 리부트시켜 기획된 작품이다.
 
