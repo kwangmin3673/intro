@@ -11,4 +11,4 @@
 
 # 프로모션 비디오
 
-[youtube(rUNxqTsdmsE]
+[youtube(rUNxqTsdmsE)]
