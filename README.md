@@ -11,4 +11,4 @@
 
 # 프로모션 비디오
 
-(https://youtu.be/rUNxqTsdmsE?list=PLXNGfkk7zhREV59zYaGg4Yu_O0RBimLEM)
+[youtube(https://goo.gl/qDiXQw)
