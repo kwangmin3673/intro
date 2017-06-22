@@ -20,3 +20,5 @@
 ||<-2><rowbgcolor=white><:>[[Fate/Grand Order/메인 시나리오/솔로몬|https://3.bp.blogspot.com/-Lvy5LCxAfgw/WEjf0tXYCYI/AAAAAAAACTU/NHg-I9nsS70dwr_48jEsgMJMCjyZGf-jgCLcB/s1600/solomon.png?width=50%[br]'''{{{#!html<span style="text-shadow: 0 0 10px #FAED7D;color:#000000">종국특이점(終局特異点)}}}'''[br]'''{{{#!html<span style="text-shadow: 0 0 10px #FAED7D;color:#000000">A.D. 2016 관위시간신전 솔로몬}}}''']]||
 ||<rowbgcolor=white><:>[[Fate/Grand Order/메인 시나리오/신주쿠|{{{#!html <img src=http://dcimg2.dcinside.com/viewimage.php?id=39a4c023e8dd37a8&no=29bcc427b28777a16fb3dab004c86b6f4fce3bfc395ceae176db9e1ad7059f31d2bccceb147410b10a75219b35390cacc9c214ef80bd62aeb8b1 width=100%>}}}[br]'''{{{#!html<span style="text-shadow: 0 0 10px #4374D9;color:#000000">아종특이점Ⅰ}}}'''[br]'''{{{#!html<span style="text-shadow: 0 0 10px #4374D9;color:#000000">A.D.1999 악성격절마경 신주쿠}}}''']]|| - ||
 [[분류:Fate/Grand Order]] [[분류:Fate/Grand Order/메인 시나리오]]
+
+#[!pv](https://github.com/kwangmin3673/outro)
